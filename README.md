@@ -32,3 +32,5 @@ Helpful and simple tips
 
 Clean and user-friendly design
 
+For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
