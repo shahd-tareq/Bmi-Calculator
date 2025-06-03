@@ -20,4 +20,5 @@ a simple yet meaningful BMI Calculator app built with Flutter.
 What is BMI?
 
 BMI stands for Body Mass Index — it's a quick way to assess if a person’s weight is in a healthy range for their height.
+
 The app calculates BMI, determines the health category (Underweight / Normal / Overweight / Obese), and gives simple tips based on the result.
