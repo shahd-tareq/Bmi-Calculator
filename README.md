@@ -35,7 +35,8 @@ It's a quick method to check your body status based on your height and weight.
 ## App View (Splash Screen-Calculate Screen-Result Screen):
 
 ![image alt](https://github.com/shahd-tareq/Bmi-Calculator/blob/main/Splash%20Screen.png?raw=true)
-![image alt](https://github.com/shahd-tareq/Bmi-Calculator/blob/main/Calculate.png?raw=true) ![image alt](https://github.com/shahd-tareq/Bmi-Calculator/blob/main/Result.png?raw=true)
+![image alt](https://github.com/shahd-tareq/Bmi-Calculator/blob/main/Calculate.png?raw=true) 
+![image alt](https://github.com/shahd-tareq/Bmi-Calculator/blob/main/Result.png?raw=true)
 
 #### For help getting started with Flutter development, view the [Online Documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
