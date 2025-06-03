@@ -22,15 +22,15 @@ It's a quick method to check your body status based on your height and weight.
 
 ## App Features 🚀
 
-Easy height and weight input
+.Easy height and weight input
 
-Instant BMI calculation
+.Instant BMI calculation
 
-Shows your health category
+.Shows your health category
 
-Helpful and simple tips
+.Helpful and simple tips
 
-Clean and user-friendly design
+.Clean and user-friendly design
 
-For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+#### For help getting started with Flutter development, view the [Online Documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
